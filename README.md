@@ -13,3 +13,9 @@ npm i
 ```bash
 ./dist/index.html
 ```
+
+### 기본 tsconfig.json 생성
+
+```bash
+tsc --init
+```
